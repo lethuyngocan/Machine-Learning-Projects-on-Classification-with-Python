@@ -14,3 +14,15 @@ https://www.youtube.com/watch?v=5aIFgrrTqOw
 
 https://www.youtube.com/watch?v=5O8HvA9pMew 
 
+## SVC:
+
+https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+
+https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python#prosandcons
+
+https://datagy.io/python-support-vector-machines/
+
+https://www.youtube.com/watch?v=H9yACitf-KM
+
+https://www.youtube.com/watch?v=FB5EdxAGxQg
+
