@@ -26,3 +26,4 @@ https://www.youtube.com/watch?v=H9yACitf-KM
 
 https://www.youtube.com/watch?v=FB5EdxAGxQg
 
+https://github.com/codebasics/py/blob/master/ML/15_gridsearch/15_grid_search.ipynb
