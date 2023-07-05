@@ -3,3 +3,5 @@ In this resource, I will walk you through different Classification Algorithms in
 1) Decision Tree 
 2) Support Vector Classifier
 3) Logistic Regression
+
+Using Decision Tree Algorithm, I predict 
