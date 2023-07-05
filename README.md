@@ -7,4 +7,4 @@ In this resource, I will guide you through various projects where I employ diver
 
 3) By integrating the logistic regression model and the SMOTE model within a pipeline, I conducted an analysis of 284,806 transaction records from a credit company with the objective of detecting credit fraud.
 
-4) 
+4) I analysed more than 50,000 reviews from TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
